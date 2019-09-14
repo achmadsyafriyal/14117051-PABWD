@@ -1,6 +1,0 @@
-1. jadi ketika kita  merubah link  kemudian tujuan link akan berubah.  akan  error yaitu seluruh konten di dalam web dan tidak teratur
-2. jadi ketika kita membuka file html tersebut maka akan file html tersebut setelah 5 detik akan otomatis menuju website google 
-3. thead menunjukkan sebuah table head atau bagian kepala sebuah tabel (table element).
-   tbody menunjukkan sebuah table body (bodi tabel) atau bagian pokok isi sebuah tabel.
-   tr yang menunjukkan table row atau baris sebuah table. 
-    tabel dapat dirancang dengan menggunakan 3 tag saja, yaitu tag table, tag tr, dan tag td. 
